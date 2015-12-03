@@ -1,2 +1,2 @@
 # vim-powered-airline
-Configures vim-airline just how I like it
+Configures vim-airline to be very similar to powerline.
